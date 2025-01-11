@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 #include <stdbool.h>
-#include <ctype.h>  // Include this header for tolower function
+#include <ctype.h>
 
 #ifdef _WIN32
 #include <windows.h>
